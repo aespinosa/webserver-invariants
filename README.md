@@ -3,7 +3,9 @@
 Exploring datasets used in the paper " Web server workload characterization: the
 search for invariants"
 
-The paper can be found in http://dx.doi.org/10.1145/233008.233034
+The paper can be found in http://dx.doi.org/10.1145/233008.233034 .  The authors
+have the extended version of the paper in
+ftp://ftp.cs.usask.ca/pub/discus/paper.96-3.ps.Z .
 
 ## Datasets
 
