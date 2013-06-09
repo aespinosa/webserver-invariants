@@ -3,6 +3,8 @@
 Exploring datasets used in the paper " Web server workload characterization: the
 search for invariants"
 
+The paper can be found in http://dx.doi.org/10.1145/233008.233034
+
 ## Datasets
 
   * Calgary-HTTP - http://ita.ee.lbl.gov/html/contrib/Calgary-HTTP.html
