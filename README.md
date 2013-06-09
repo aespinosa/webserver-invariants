@@ -3,6 +3,13 @@
 Exploring datasets used in the paper " Web server workload characterization: the
 search for invariants"
 
+## Datasets
+
+  * Calgary-HTTP - http://ita.ee.lbl.gov/html/contrib/Calgary-HTTP.html
+  * ClarkNet-HTTP - http://ita.ee.lbl.gov/html/contrib/ClarkNet-HTTP.html
+  * NASA-HTTP - http://ita.ee.lbl.gov/html/contrib/NASA-HTTP.html
+  * Saskatchewan-HTTP - http://ita.ee.lbl.gov/html/contrib/Sask-HTTP.html
+
 ## Author
 
 Allan Espinosa (allan.espinosa@outlook.com)
